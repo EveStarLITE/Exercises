@@ -21,4 +21,4 @@ for i in range(0, len(depthInputs)):
 
 stringInt = str(increases)
 
-print("The Depth increased " + stringInt + "times")
+print("The Depth increased " + stringInt + " times")
