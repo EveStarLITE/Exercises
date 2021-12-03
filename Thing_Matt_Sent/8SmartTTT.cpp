@@ -331,7 +331,5 @@ int count1 = 0;
         return winCon;
     }
 
-
-    return winCon;//return the result false result i.e there is no chance of win
-                //as we have checked all the conditions
+    return winCon;
 }
