@@ -9,7 +9,7 @@ def comparator(input, prev):
 depthInputs = []
 increases = 0
 
-with open ('1inputs.txt') as Depths:
+with open ('../Inputs/1inputs.txt') as Depths:
     for input in Depths:
         depthInputs.append(input)
 

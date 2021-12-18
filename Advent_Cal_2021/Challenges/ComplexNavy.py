@@ -1,6 +1,6 @@
 navy = []
 
-with open ('2inputs.txt') as Instrucs:
+with open ('../Inputs/2inputs.txt') as Instrucs:
     for input in Instrucs:
         navy.append(input)
 
